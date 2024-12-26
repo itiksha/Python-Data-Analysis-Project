@@ -1,4 +1,5 @@
-Data Analysis with Python
+**Data Analysis with Python**
+
 Welcome to my Python Data Analysis repository! 🎉
 
 This repository showcases various data analysis techniques and visualizations implemented using popular Python libraries like Pandas, NumPy, Matplotlib, Seaborn, and more. It contains scripts and notebooks designed to explore, clean, and analyze datasets, making insights accessible and visually engaging.
@@ -16,8 +17,8 @@ Key Features
 5. Customization: Ready-to-use templates that can be adapted for your own data projects.
 
 Technologies Used:
-
 Python (Version 3.x)
+
 Libraries:
 Pandas
 NumPy
